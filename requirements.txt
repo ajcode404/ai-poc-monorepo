@@ -1,0 +1,6 @@
+langchain
+langgraph
+langchain-community
+typing_extensions
+ollama
+
